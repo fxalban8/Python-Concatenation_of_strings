@@ -1,7 +1,7 @@
 string1= "Francisco"
-string1.1= "Xavier"
+string1_1= "Xavier"
 string2= "Albán"
-string2.1= "Salgado"
+string2_1= "Salgado"
 string3= " "
 
-print(string1+" "+ string2)
+print(string1+ string3 + string1_1 + string3 + string2+ string3 + string2_1)
